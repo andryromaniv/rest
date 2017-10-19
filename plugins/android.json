@@ -1,0 +1,16 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "phonegap-plugin-push": {
+            "SENDER_ID": "228071472080",
+            "PACKAGE_NAME": "com.titaniumtemplates.restaurantclassy"
+        }
+    },
+    "dependent_plugins": {}
+}
